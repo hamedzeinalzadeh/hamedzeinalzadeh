@@ -18,9 +18,9 @@ src="https://img.shields.io/github/followers/hejazizo?logo=github&style=for-the-
 
 
 - :dna: I’m currently working on Genomic data analysis.
-- 💻 I’m interested in system administration.
+- 💻 Interested in system administration.
 - :envelope: Feel free to contact me at: hamedzeinal@yahoo.com
-- :book: I’m currently reading [linear algebra and learning from data](https://math.mit.edu/~gs/learningfromdata/). Check it out if interested.
+- :book: Currently reading [linear algebra and learning from data](https://math.mit.edu/~gs/learningfromdata/). Check this out if interested.
 - 🌱 I also learn Python, Medical image analysis, etc by supervising some courses. Visit [Parspajouhaan](https://parspajouhaan.com/) website.
 
 
