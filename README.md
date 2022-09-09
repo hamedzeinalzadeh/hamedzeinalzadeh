@@ -5,7 +5,7 @@
 src="https://img.shields.io/twitter/follow/hejazizo?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /> -->
 
-<!-- </a> <a href="https://www.github.com/hejazizo" target="_blank" rel="noreferrer"><img
+<!-- </a> <a href="https://www.github.com/hamedzeinalzadeh" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/hejazizo?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> -->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhamedzeinalzadeh&count_bg=%231DCEF6&title_bg=%23000000&icon=crunchyroll.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)<br>
