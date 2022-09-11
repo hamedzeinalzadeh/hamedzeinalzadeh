@@ -10,9 +10,9 @@ src="https://img.shields.io/github/followers/hejazizo?logo=github&style=for-the-
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhamedzeinalzadeh&count_bg=%231DCEF6&title_bg=%23000000&icon=crunchyroll.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)<br>
 [![Email](https://img.shields.io/badge/Email-blueviolet?style=flat&logo=Yahoo&logoColor=white)](mailto:hamedzeinal@yahoo.com)
-[![Medium](https://img.shields.io/badge/Medium-06AA5A?style=flat&logo=Medium&logoColor=Black)](mailto:hamedzeinal@yahoo.com)
+[![Medium](https://img.shields.io/badge/Medium-06AA5A?style=flat&logo=Medium&logoColor=Black)](https://medium.com/@hamed_zeinalzadeh)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-FF5733?logo=instagram&logoColor=white&link=https://https://www.instagram.com/hamed_zeinalzadeh/)](https://www.instagram.com/hamed_zeinalzadeh)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/mrr_zo)](https://twitter.com/mrr_zo)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/HamedZeinalzad2)](https://twitter.com/HamedZeinalzad2)
 [![Stackoverflow](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/stackoverflow.svg)](https://stackoverflow.com/users/19514947/hamed-zeinalzadeh)
 [![Github](https://img.shields.io/github/followers/hamedzeinalzadeh?label=Follow-Me&style=social)](https://github.com/hamedzeinalzadeh)
 
