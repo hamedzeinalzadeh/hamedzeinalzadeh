@@ -35,7 +35,8 @@ src="https://img.shields.io/github/followers/hejazizo?logo=github&style=for-the-
 <!----------------------------->
 
 <!-- STATISTICS -->
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hamedzeinalzadeh&show_icons=true&count_private=true&include_all_commits=true&theme=white)](https://github.com/hamedzeinalzadeh)
+<!--
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hamedzeinalzadeh&show_icons=true&count_private=true&include_all_commits=true&theme=white)](https://github.com/hamedzeinalzadeh) -->
 
 <!-- MEDIUM & BUY ME A COFFEE -->
  
