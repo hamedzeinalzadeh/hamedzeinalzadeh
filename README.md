@@ -18,8 +18,7 @@ src="https://img.shields.io/github/followers/hejazizo?logo=github&style=for-the-
 [![Github](https://img.shields.io/github/followers/hamedzeinalzadeh?label=Follow-Me&style=social)](https://github.com/hamedzeinalzadeh)
 
 
-- :dna: I’m currently working on Genomic data analysis.
-- 💻 Interested in system administration.
+- 💻 I am currently working as a computer vision and image processing engineer.
 - :envelope: Feel free to contact me at: hamedzeinal@yahoo.com
 - :book: Currently reading [linear algebra and learning from data](https://math.mit.edu/~gs/learningfromdata/). Check this out if interested.
 - 🌱 I also learn Python, Medical image analysis, etc by supervising some courses. Visit [Parspajouhaan](https://parspajouhaan.com/) website.
