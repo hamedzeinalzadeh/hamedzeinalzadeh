@@ -18,11 +18,8 @@ src="https://img.shields.io/github/followers/hejazizo?logo=github&style=for-the-
 [![Github](https://img.shields.io/github/followers/hamedzeinalzadeh?label=Follow-Me&style=social)](https://github.com/hamedzeinalzadeh)
 
 
-- 💻 I am currently working as a computer vision and image processing engineer.
+- 💻 Computer vision and Image processing engineer
 - :envelope: Feel free to contact me at: hamedzeinal@yahoo.com
-- :book: Currently reading [linear algebra and learning from data](https://math.mit.edu/~gs/learningfromdata/). Check this out if interested.
-- 🌱 I also learn Python, Medical image analysis, etc by supervising some courses. Visit [Parspajouhaan](https://parspajouhaan.com/) website.
-
 
 <div>
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamedzeinalzadeh&show_icons=true&locale=en&layout=compact" alt="hamedzeinalzadeh" />
