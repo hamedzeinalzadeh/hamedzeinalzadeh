@@ -23,7 +23,6 @@ src="https://img.shields.io/github/followers/hejazizo?logo=github&style=for-the-
 
 <div>
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamedzeinalzadeh&show_icons=true&locale=en&layout=compact" alt="hamedzeinalzadeh" />
-  <img width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=hamedzeinalzadeh&" alt="hamedzeinalzadeh" />
 </div>
 
 <!----------------------------->
