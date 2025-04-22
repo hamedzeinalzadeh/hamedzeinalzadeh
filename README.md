@@ -18,7 +18,7 @@ src="https://img.shields.io/github/followers/hejazizo?logo=github&style=for-the-
 [![Github](https://img.shields.io/github/followers/hamedzeinalzadeh?label=Follow-Me&style=social)](https://github.com/hamedzeinalzadeh)
 
 
-- 💻 Computer vision and Image processing engineer
+- 💻 Machine Learning Engineer
 - :envelope: Feel free to contact me at: hamedzeinal@yahoo.com
 
 <div>
